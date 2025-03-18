@@ -1,0 +1,24 @@
+# Ignore virtual environment directories
+prdct/
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore compiled Python files
+*.py[cod]
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
